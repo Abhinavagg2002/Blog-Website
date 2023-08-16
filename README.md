@@ -1,1 +1,1 @@
-# simonGame
+# Personal photography blog website
