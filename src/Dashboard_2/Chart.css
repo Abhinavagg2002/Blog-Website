@@ -1,0 +1,22 @@
+.row-container {
+    display: flex;
+    justify-content: space-between; /* Adjust this property based on your layout needs */
+}
+  
+.BarChart {
+/* Optional: Add styling for your components */
+width: 48%; /* Adjust the width as needed to leave some space between the components */
+box-sizing: border-box;
+border: 1px solid #ccc;
+padding: 10px;
+border: 1px solid rgb(126 34 206);
+}
+.PieChart {
+/* Optional: Add styling for your components */
+width: 48%; /* Adjust the width as needed to leave some space between the components */
+box-sizing: border-box;
+border: 1px solid #ccc;
+padding: 10px;
+border: 1px solid rgb(126 34 206);
+}
+  
